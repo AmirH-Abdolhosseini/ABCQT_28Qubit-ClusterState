@@ -1,0 +1,22 @@
+# Python bytecode files
+*.pyc
+*.pyo
+__pycache__/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment directories
+env/
+venv/
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+
+# IDE-specific files (e.g., for VSCode, PyCharm, etc.)
+.vscode/
+.idea/
