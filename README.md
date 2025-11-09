@@ -42,3 +42,5 @@ To set up and run this project, you’ll need Python and the necessary packages.
 pip install qiskit[visualization]
 pip install pylatexenc
 pip install qiskit-aer
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17563965.svg)](https://doi.org/10.5281/zenodo.17563965)
