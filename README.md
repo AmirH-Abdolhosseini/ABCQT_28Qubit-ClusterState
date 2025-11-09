@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17563965.svg)](https://doi.org/10.5281/zenodo.17563965)
+
 # Quantum Teleportation Protocol using a 28-Qubit Cluster State Channel
 
 This repository implements the **Circular Asymmetric Bidirectional Quantum Teleportation (CABQT)** protocol, utilizing a **28-qubit cluster state** as the quantum channel. The project simulates the quantum teleportation process for 2-qubit and 3-qubit states, analyzes the impact of **depolarizing noise**, and evaluates the protocol's robustness using **Qiskit**.
@@ -43,4 +45,3 @@ pip install qiskit[visualization]
 pip install pylatexenc
 pip install qiskit-aer
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17563965.svg)](https://doi.org/10.5281/zenodo.17563965)
